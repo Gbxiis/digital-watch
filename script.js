@@ -8,7 +8,10 @@ const Watch = setInterval(() => {
   let minutes_now = dateToday.getMinutes();
   let seconds_now = dateToday.getSeconds();
 
-//   hours.textContent = hours_now;
-//   minutes.textContent = minutes_now;
-//   seconds.textContent = seconds_now;
+  hours_now = hours_now < 10 ? "0" + hours_now : hours_now;
+  minutes_now = minutes_now < 10 ? "0" + minutes_now : minutes_now;
+  seconds_now = seconds_now < 10 ? "0" + seconds_now : seconds_now;
+  hours.textContent = hours_now;
+  minutes.textContent = minutes_now;
+  seconds.textContent = seconds_now;
 });
