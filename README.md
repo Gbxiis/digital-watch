@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-Digital-Watch é um aplicação front-end web simples que consiste em simular um relogio digital usando o horario atual do desktop hospedeiro.
+Digital-Watch é uma aplicação de front-end web básica que tem como objetivo simular um relógio digital. A aplicação funciona por meio da utilização do horário atual do desktop hospedeiro, ou seja, do computador ou dispositivo móvel no qual a aplicação está sendo executada. Dessa forma, o relógio digital é capaz de exibir as horas, minutos e segundos correspondentes ao horário local do dispositivo em tempo real.
+
 
 ## Layout
 ![Web 1](![Animação](https://user-images.githubusercontent.com/110855086/216647928-1a679772-4803-40e3-8ad5-7b123c1d2141.gif)
