@@ -3,6 +3,8 @@
 
 # Sobre o projeto
 
+https://digital-watchgb.netlify.app/
+
 Digital-Watch é uma aplicação de front-end web básica que tem como objetivo simular um relógio digital. A aplicação funciona por meio da utilização do horário atual do desktop hospedeiro, ou seja, do computador ou dispositivo móvel no qual a aplicação está sendo executada. Dessa forma, o relógio digital é capaz de exibir as horas, minutos e segundos correspondentes ao horário local do dispositivo em tempo real.
 
 
